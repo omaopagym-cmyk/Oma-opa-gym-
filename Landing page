@@ -2,9 +2,9 @@
 <html lang="fr">
 <head>
   <meta charset="UTF-8" />
-  <title>OMA & OPA GYM+ — Better Aging Club</title>
+  <title>GYM & YOU — Better Aging Club</title>
   <meta name="viewport" content="width=device-width, initial-scale=1" />
-  <meta name="description" content="OMA & OPA GYM+ — Le club sport-santé des 50+ à Luxembourg. Rejoignez la liste d’attente, c’est devenir membre fondateur." />
+  <meta name="description" content="GYM & YOU — Le club sport-santé des 50+ à Luxembourg. Rejoignez la liste d’attente et devenez membre fondateur." />
   <style>
     :root{
       --sage:#859983;          /* vert sauge principal */
@@ -129,21 +129,21 @@
     <section>
       <div class="container split">
         <div>
-          <h2 class="section-title lang fr">OMA &amp; OPA GYM+ — Le fitness pensé pour vous</h2>
-          <h2 class="section-title lang en" hidden>OMA &amp; OPA GYM+ — Fitness designed for you</h2>
+          <h2 class="section-title lang fr">GYM &amp; YOU — Le fitness pensé pour vous</h2>
+          <h2 class="section-title lang en" hidden>GYM &amp; YOU — Fitness designed for you</h2>
 
           <p class="section-sub lang fr">
             Un club dédié au “better aging” pour les 50 ans et plus.<br/>
-            Bien plus qu’une salle, OMA &amp; OPA GYM+ propose une nouvelle façon de vivre le mouvement :<br/>
+            Bien plus qu’une salle, GYM &amp; YOU propose une nouvelle façon de vivre le mouvement :<br/>
             cours collectifs adaptés (Yoga, Pilates Reformer, ClubCycle, Step &amp; Dance, Strength &amp; Balance),
-            coaching privé, espace fitness sur réservation, rituels bien-être et sauna.<br/>
+            coaching privé, randonnées, espace fitness sur réservation, rituels bien-être et sauna.<br/>
             Une communauté en devenir, animée par l’envie de bouger dans une ambiance conviviale, où chacun retrouve vitalité, confiance et plaisir.
           </p>
           <p class="section-sub lang en" hidden>
             A club dedicated to “better aging” for people aged 50+.<br/>
             More than a regular gym, OMA &amp; OPA GYM+ offers a new way to live movement:<br/>
             tailored group classes (Yoga, Pilates Reformer, ClubCycle, Step &amp; Dance, Strength &amp; Balance),
-            private coaching, reservation-only fitness area, wellness rituals and sauna.<br/>
+            private coaching, Hiking, reservation-only fitness area, wellness rituals and sauna.<br/>
             A growing community to move with joy, regain confidence, and feel energized.
           </p>
         </div>
@@ -188,8 +188,8 @@
         <h2 class="section-title lang fr">Membres fondateurs</h2>
         <h2 class="section-title lang en" hidden>Founding members</h2>
 
-        <p class="section-sub lang fr">Les 100 premiers inscrits deviennent nos membres fondateurs : accès prioritaire, reconnaissance dédiée et implication dans la phase d’ouverture.</p>
-        <p class="section-sub lang en" hidden>The first 100 sign-ups become our founding members: priority access, dedicated recognition, and involvement during the opening phase.</p>
+        <p class="section-sub lang fr">Les 50 premiers inscrits deviennent nos membres fondateurs : tarif de lancement, accès prioritaire, reconnaissance dédiée et implication dans la phase d’ouverture.</p>
+        <p class="section-sub lang en" hidden>The first 100 sign-ups become our founding members: launch rate, priority access, dedicated recognition, and involvement during the opening phase.</p>
 
         <ul class="list">
           <li class="lang fr"><strong>Carte membre fondateur</strong> (nominative) et visibilité dans le club.</li>
@@ -210,9 +210,9 @@
         <h2 class="section-title lang fr">Inscription sur la liste d’attente</h2>
         <h2 class="section-title lang en" hidden>Join the waiting list</h2>
 
-        <form id="waitlist" action="https://formsubmit.co/ajax/omaopagym@gmail.com" method="POST">
+        <form id="waitlist" action="https://formsubmit.co/ajax/gymandyoulux@gmail.com" method="POST">
           <!-- Options FormSubmit -->
-          <input type="hidden" name="_subject" value="Nouvelle inscription — OMA & OPA GYM+">
+          <input type="hidden" name="_subject" value="Nouvelle inscription — GYM & YOU">
           <input type="hidden" name="_template" value="table">
           <input type="hidden" name="_captcha" value="false">
           <input type="hidden" id="lang-field" name="Langue / Language" value="FR">
@@ -256,18 +256,18 @@
   <footer>
     <div class="container footer-grid">
       <div>
-        <div class="footer-brand">OMA &amp; OPA <strong>GYM+</strong></div>
+        <div class="footer-brand">GYM &amp; YOU <strong>GYM+</strong></div>
         <div class="lang fr">Projet de prélancement — Luxembourg</div>
         <div class="lang en" hidden>Pre-launch project — Luxembourg</div>
       </div>
       <div>
         <strong class="lang fr">Contact</strong>
         <strong class="lang en" hidden>Contact</strong><br/>
-        <a href="mailto:omaopagym@gmail.com">omaopagym@gmail.com</a>
+        <a href="mailto:gymandyoulux@gmail.com">gymandyoulux@gmail.com</a>
       </div>
       <div>
         <strong>Instagram</strong><br/>
-        <a href="https://www.instagram.com/omaopagym/" target="_blank" rel="noopener">@omaopagym</a>
+        <a href="https://www.instagram.com/gymyou_luxembourg/" target="_blank" rel="noopener">@gymyou_luxembourg</a>
       </div>
     </div>
   </footer>
